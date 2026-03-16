@@ -16,7 +16,11 @@ Am **21. März 2026** werden wir in diesem Repository die vollständige Wahrheit
 - Dokumentierte Vorfälle
 - Background-Informationen über die Vorfälle
 
-## 🎯 Ziel der Untersuchung
+## � Persönliche Einschätzung
+
+Lasst euch überraschen... Nur soviel: Der Bäcker ist zwar einer der genialsten Black Hats unserer Zeit. Aber ganz ehrlich? Er ist ein Vollspast! xD
+
+## �🎯 Ziel der Untersuchung
 
 **Kuchen TV:** https://www.youtube.com/@KuchenTV  
 **Herr Kuchen:** https://www.youtube.com/@HerrKuchen  
@@ -29,7 +33,7 @@ Am **21. März 2026** werden wir in diesem Repository die vollständige Wahrheit
 ## 👥 Team
 
 - **Toni Cubano** - Hacker & Security Researcher aus Peine
-- **Herzog** - Kooperationspartner (freut sich schon ^^)
+- **Herzog** - Kooperationspartner (freut sich schon auf die Veröffentlichungen^^)
 
 ---
 
