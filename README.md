@@ -49,4 +49,4 @@ Für Anfragen oder Hinweise: Repository Issues
 
 ---
 
-*Peine, 2026 - Die Wahrheit braucht Zeit, aber sie kommt.*
+*Berlin, 8. Januar 2026 - Die Wahrheit braucht Zeit, aber sie kommt.*
